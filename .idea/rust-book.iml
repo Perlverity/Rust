@@ -1,7 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="PYTHON_MODULE" version="4">
   <component name="NewModuleRootManager">
-    <content url="file://$MODULE_DIR$" />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/ch03/bmi_struct/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch03/enc_save_load/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch03/owner_func/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch03/rand_global/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch03/rand_xorshift/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch03/str_hex/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch03/str_index/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch03/struct_car/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch03/tuple_goods/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch04/bmi_checker/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch04/method_bmi/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/ch03/bmi_struct/target" />
+      <excludeFolder url="file://$MODULE_DIR$/ch03/enc_save_load/target" />
+      <excludeFolder url="file://$MODULE_DIR$/ch03/owner_func/target" />
+      <excludeFolder url="file://$MODULE_DIR$/ch03/rand_global/target" />
+      <excludeFolder url="file://$MODULE_DIR$/ch03/rand_xorshift/target" />
+      <excludeFolder url="file://$MODULE_DIR$/ch03/str_hex/target" />
+      <excludeFolder url="file://$MODULE_DIR$/ch03/str_index/target" />
+      <excludeFolder url="file://$MODULE_DIR$/ch03/struct_car/target" />
+      <excludeFolder url="file://$MODULE_DIR$/ch03/tuple_goods/target" />
+      <excludeFolder url="file://$MODULE_DIR$/ch04/bmi_checker/target" />
+      <excludeFolder url="file://$MODULE_DIR$/ch04/method_bmi/target" />
+    </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
