@@ -1,3 +1,4 @@
+// main.rs
 fn main() {
     let body = Body::new(163.0, 75.2, "田中");
     body.print_result();
