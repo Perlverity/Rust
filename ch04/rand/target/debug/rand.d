@@ -1,0 +1,1 @@
+/home/s-suganuma/rust-book/ch04/rand/target/debug/rand: /home/s-suganuma/rust-book/ch04/rand/src/main.rs /home/s-suganuma/rust-book/ch04/rand/src/random/linear.rs /home/s-suganuma/rust-book/ch04/rand/src/random/xorshift.rs /home/s-suganuma/rust-book/ch04/rand/src/random.rs

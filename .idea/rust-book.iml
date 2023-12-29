@@ -17,6 +17,14 @@
       <sourceFolder url="file://$MODULE_DIR$/ch04/trait_TreasureBox_def/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/ch04/iter_array_string/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/ch04/iter_fib/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch04/coin/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch04/counter/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch04/match_bmi/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch04/match_fizzbuzz/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch04/match_num/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch04/mod_random/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch04/rand/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch04/rpn_crate/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/ch03/bmi_struct/target" />
       <excludeFolder url="file://$MODULE_DIR$/ch03/enc_save_load/target" />
       <excludeFolder url="file://$MODULE_DIR$/ch03/owner_func/target" />
@@ -32,6 +40,14 @@
       <excludeFolder url="file://$MODULE_DIR$/ch04/trait_TreasureBox_def/target" />
       <excludeFolder url="file://$MODULE_DIR$/ch04/iter_array_string/target" />
       <excludeFolder url="file://$MODULE_DIR$/ch04/iter_fib/target" />
+      <excludeFolder url="file://$MODULE_DIR$/ch04/coin/target" />
+      <excludeFolder url="file://$MODULE_DIR$/ch04/counter/target" />
+      <excludeFolder url="file://$MODULE_DIR$/ch04/match_bmi/target" />
+      <excludeFolder url="file://$MODULE_DIR$/ch04/match_fizzbuzz/target" />
+      <excludeFolder url="file://$MODULE_DIR$/ch04/match_num/target" />
+      <excludeFolder url="file://$MODULE_DIR$/ch04/mod_random/target" />
+      <excludeFolder url="file://$MODULE_DIR$/ch04/rand/target" />
+      <excludeFolder url="file://$MODULE_DIR$/ch04/rpn_crate/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
