@@ -1,6 +1,6 @@
 [package]
 name = "rpn_calc_perl"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Perlverity"]
 description = "RPN library for Perl"
 license = "MIT"

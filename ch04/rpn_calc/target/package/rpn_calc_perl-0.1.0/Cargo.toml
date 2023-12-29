@@ -15,6 +15,7 @@ name = "rpn_calc_perl"
 version = "0.1.0"
 authors = ["Perlverity"]
 description = "RPN library for Perl"
+readme = "README.md"
 license = "MIT"
 
 [dependencies]
