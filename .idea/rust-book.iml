@@ -25,6 +25,13 @@
       <sourceFolder url="file://$MODULE_DIR$/ch04/mod_random/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/ch04/rand/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/ch04/rpn_crate/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch04/rpn_test/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch05/image_filter/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch05/image_ichimatu/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch05/image_thumb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch05/mml/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch05/sine_melody/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch05/sinewave/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/ch03/bmi_struct/target" />
       <excludeFolder url="file://$MODULE_DIR$/ch03/enc_save_load/target" />
       <excludeFolder url="file://$MODULE_DIR$/ch03/owner_func/target" />
@@ -48,6 +55,13 @@
       <excludeFolder url="file://$MODULE_DIR$/ch04/mod_random/target" />
       <excludeFolder url="file://$MODULE_DIR$/ch04/rand/target" />
       <excludeFolder url="file://$MODULE_DIR$/ch04/rpn_crate/target" />
+      <excludeFolder url="file://$MODULE_DIR$/ch04/rpn_test/target" />
+      <excludeFolder url="file://$MODULE_DIR$/ch05/image_filter/target" />
+      <excludeFolder url="file://$MODULE_DIR$/ch05/image_ichimatu/target" />
+      <excludeFolder url="file://$MODULE_DIR$/ch05/image_thumb/target" />
+      <excludeFolder url="file://$MODULE_DIR$/ch05/mml/target" />
+      <excludeFolder url="file://$MODULE_DIR$/ch05/sine_melody/target" />
+      <excludeFolder url="file://$MODULE_DIR$/ch05/sinewave/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
