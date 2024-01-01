@@ -32,6 +32,7 @@
       <sourceFolder url="file://$MODULE_DIR$/ch05/mml/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/ch05/sine_melody/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/ch05/sinewave/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch05/sawwave/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/ch03/bmi_struct/target" />
       <excludeFolder url="file://$MODULE_DIR$/ch03/enc_save_load/target" />
       <excludeFolder url="file://$MODULE_DIR$/ch03/owner_func/target" />
@@ -62,6 +63,7 @@
       <excludeFolder url="file://$MODULE_DIR$/ch05/mml/target" />
       <excludeFolder url="file://$MODULE_DIR$/ch05/sine_melody/target" />
       <excludeFolder url="file://$MODULE_DIR$/ch05/sinewave/target" />
+      <excludeFolder url="file://$MODULE_DIR$/ch05/sawwave/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
