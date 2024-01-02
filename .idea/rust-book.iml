@@ -33,6 +33,11 @@
       <sourceFolder url="file://$MODULE_DIR$/ch05/sine_melody/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/ch05/sinewave/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/ch05/sawwave/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch05/fm_synth/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch05/noise/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch05/pulsewave/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch05/squarewave/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch05/trianglewave/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/ch03/bmi_struct/target" />
       <excludeFolder url="file://$MODULE_DIR$/ch03/enc_save_load/target" />
       <excludeFolder url="file://$MODULE_DIR$/ch03/owner_func/target" />
@@ -64,6 +69,11 @@
       <excludeFolder url="file://$MODULE_DIR$/ch05/sine_melody/target" />
       <excludeFolder url="file://$MODULE_DIR$/ch05/sinewave/target" />
       <excludeFolder url="file://$MODULE_DIR$/ch05/sawwave/target" />
+      <excludeFolder url="file://$MODULE_DIR$/ch05/fm_synth/target" />
+      <excludeFolder url="file://$MODULE_DIR$/ch05/noise/target" />
+      <excludeFolder url="file://$MODULE_DIR$/ch05/pulsewave/target" />
+      <excludeFolder url="file://$MODULE_DIR$/ch05/squarewave/target" />
+      <excludeFolder url="file://$MODULE_DIR$/ch05/trianglewave/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
