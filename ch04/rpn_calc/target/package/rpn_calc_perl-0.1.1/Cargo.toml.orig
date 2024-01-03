@@ -1,0 +1,12 @@
+[package]
+name = "rpn_calc_perl"
+version = "0.1.1"
+authors = ["Perlverity"]
+description = "RPN library for Perl"
+license = "MIT"
+edition = "2021"
+readme = "README.md"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]

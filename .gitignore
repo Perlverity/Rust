@@ -1,0 +1,44 @@
+# Rust / Cargo
+/target/
+/cargo.toml.orig
+/*.swp
+
+# IDE/Editor specific files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Compiled files
+*.rs.bk
+*.rlib
+*.rmeta
+*.crate
+*.o
+*.so
+*.rlibc
+*.dylib
+*.dSYM
+*.pdb
+
+# Cargo files
+Cargo.lock
+
+# Caches
+**/.caches/
+**/.cargo/
+
+# Generated documentation
+/target/doc/
+doc/
+
+# Mac OS X specific files
+.DS_Store
+
+# Windows specific files
+Thumbs.db
+
+./ch05/web_hello
+./ch05/web_bmi
+./ch05/web_hello_tide
+./ch05/web_input_name
